@@ -36,7 +36,15 @@ Threat Modeling: Guides the identification and mitigation of potential threats d
 
 ## OWASP ASVS checklist for audits
 * This checklist is compatible with ASVS version 4.0.3 
-* you can display a summary graph on the Project by download [asvs_checklist.xlsx](https://github.com/kh4sh3i/OWASP-ASVS)
+* you can display a summary graph on the Project by download [asvs_checklist.xlsx](https://github.com/kh4sh3i/OWASP-ASVS/blob/main/asvs_checklist.xlsx)
 
 
-  <img src="/img/report.png" alt="" width="300px;">
+  <img src="/img/report.png" alt="" width="100%;">
+
+
+## Tips:
+use [DefectDojo](https://github.com/kh4sh3i/DefectDojo) for make asvs systematic with update on every project !
+we can use defectdojo benchmark for checking ASVS
+
+  <img src="https://github.com/kh4sh3i/DefectDojo/raw/main/img/asvs.png" alt="" width="100%;">
+
