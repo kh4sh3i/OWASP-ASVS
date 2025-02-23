@@ -48,3 +48,10 @@ we can use defectdojo benchmark for checking ASVS
 
   <img src="https://github.com/kh4sh3i/DefectDojo/raw/main/img/asvs.png" alt="" width="100%;">
 
+## persian asvs document:
+OWASP Application Security Verification Standard 4.0.1 Persian [PDF](https://github.com/OWASP/ASVS/raw/master/4.0/OWASP%20Application%20Security%20Verification%20Standard%204.0.1-fa.pdf)
+
+
+## refrencess:
+* [ASVS](https://github.com/OWASP/ASVS)
+* [checklist](https://github.com/shenril/owasp-asvs-checklist)
