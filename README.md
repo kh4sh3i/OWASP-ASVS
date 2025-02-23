@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <img src="/img/logo.png" alt="" width="500px;">
+  <img src="/img/logo.png" alt="" width="300px;">
   <br>
   <img src="https://img.shields.io/badge/PRs-welcome-ble">
   <img src="https://img.shields.io/github/last-commit/kh4sh3i/OWASP-ASVS">
